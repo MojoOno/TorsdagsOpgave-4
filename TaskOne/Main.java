@@ -7,7 +7,7 @@ public class Main{
 		Team hold2 = new Team("Whipping Wheelers");
 		Team hold3 = new Team("De Dødelige Dudes");
 		Team hold4 = new Team("Kedelige Koner");
-		Team hold5 = new Team("The Illegal Eagles");
+		Team hold5 = new Team("The Ill Illegal Eagles");
 		Team hold6 = new Team("The Breach Brothers");
 
 		hold1.setRank(1);
