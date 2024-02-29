@@ -1,6 +1,6 @@
 
 
-public class Main{
+public class TaskOne{
 	public static void main(String[] args){
 		
 		Team hold1 = new Team("The Mucho Machos");
